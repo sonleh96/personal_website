@@ -27,7 +27,7 @@ p {
 a {
   -webkit-transition: border-color 200ms ease, color 200ms ease;
   transition: border-color 200ms ease, color 200ms ease;
-  color: #000000;
+  color: #808080;
   text-decoration: none;
 }
 
